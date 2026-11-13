@@ -5,7 +5,7 @@
 SITE_URL = "https://clembgo.github.io/washie"
 
 # Google Analytics 4 : identifiant de mesure (ex. "G-ABC123XYZ"). Vide = balise non chargée.
-GA4_ID = ""
+GA4_ID = "G-03FSSWLHB8"
 # Google Ads (optionnel) : identifiant de conversion (ex. "AW-123456789") pour le remarketing / conversions.
 GOOGLE_ADS_ID = ""
 
