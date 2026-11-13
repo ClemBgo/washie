@@ -1,0 +1,34 @@
+# Washie
+
+> Washie conçoit des couches lavables hybrides pour bébé : une culotte douce, une poche étanche et un absorbant lavable ou jetable. Deux systèmes (Classic à poche intégrée, Switch à poche détachable), 5 tailles de 2 à 21 kg, absorbants jour, nuit, coton bio et jetables. Livraison France métropolitaine 4,90 €, offerte dès 49,00 €, retours gratuits 30 jours.
+
+## Guides
+- [Quelle couche lavable choisir ?](https://clembgo.github.io/washie/guide-choisir-couche-lavable.html): systèmes, Classic vs Switch, quantités, budget
+- [Guide des tailles](https://clembgo.github.io/washie/guide-des-tailles.html): XS 2–4 kg, S 4–8 kg, M 6–12 kg, L 9–17 kg, XL 14–21 kg ; absorbants T1/T2/T3
+- [Laver ses couches lavables](https://clembgo.github.io/washie/guide-entretien-couches-lavables.html): routine, températures, lessive, fuites et odeurs
+- [FAQ](https://clembgo.github.io/washie/faq.html)
+
+## Produits
+- [Couche lavable hybride Washie Classic](https://clembgo.github.io/washie/couche-lavable-hybride-washie-classic.html): Couche hybride, XS 2–4 kg · S 4–8 kg · M 6–12 kg · L 9–17 kg · XL 14–21 kg, 32,00 €. La couche lavable aussi simple qu'une jetable : une culotte douce avec poche étanche intégrée, on glisse l'absorbant, on ferme, c'est prêt.
+- [Culotte lavable Washie Switch](https://clembgo.github.io/washie/culotte-lavable-washie-switch.html): Culotte Switch, S 4–8 kg · M 6–12 kg · L 9–17 kg · XL 14–21 kg, 18,00 €. Une culotte pour 2 à 3 changes : seule la poche étanche détachable se remplace. Moins de linge, séchage express.
+- [Poches étanches Washie Switch – lot de 2](https://clembgo.github.io/washie/poches-etanches-washie-switch-lot-de-2.html): Poche Switch, S 4–8 kg · M 6–12 kg · L 9–17 kg · XL 14–21 kg, 30,00 €. Les poches étanches détachables à clipser dans la culotte Switch. On remplace la poche, on garde la culotte.
+- [Absorbants lavables Jour microfibre – lot de 2](https://clembgo.github.io/washie/absorbants-lavables-jour-microfibre-lot-de-2.html): Absorbant jour, T1 (couches XS–S) · T2 (M–L) · T3 (XL), 14,50 €. L'absorbant du quotidien : 3 épaisseurs de microfibre qui captent vite, sèchent vite. Pour 3 à 4 h de journée.
+- [Absorbant lavable Nuit & sieste](https://clembgo.github.io/washie/absorbant-lavable-nuit-sieste.html): Absorbant nuit, T1 (couches XS–S) · T2 (M–L) · T3 (XL), 10,90 €. 4 épaisseurs pour les longues siestes et la nuit : 6 à 12 h d'absorption selon les bébés.
+- [Absorbants lavables coton bio – lot de 2](https://clembgo.github.io/washie/absorbants-lavables-coton-bio-lot-de-2.html): Absorbant coton, T1 (couches XS–S) · T2 (M–L) · T3 (XL), 16,90 €. Version fibre naturelle : coton biologique non blanchi, doux pour les peaux sensibles.
+- [Boosters 2 épaisseurs – duo](https://clembgo.github.io/washie/boosters-microfibre-duo.html): Booster, Universel (28 × 10 cm), 8,90 €. Un supplément fin à glisser sous l'absorbant pour gagner 1 à 2 h, la nuit ou chez la nounou.
+- [Absorbants jetables compostables – recharge de 20](https://clembgo.github.io/washie/absorbants-jetables-compostables-x20.html): Absorbant jetable, T1 (couches XS–S) · T2 (M–L–XL), 9,90 €. Le mode voyage des couches hybrides : un absorbant jetable dans la poche Washie, rien à rapporter à la maison.
+- [Voiles de protection jetables – rouleau de 100](https://clembgo.github.io/washie/voiles-de-protection-jetables-rouleau-100.html): Voiles, 100 voiles 30 × 20 cm, 8,90 €. Posé sur l'absorbant, le voile retient les selles : on le jette, la couche reste propre.
+- [Kit d'essai Washie Classic](https://clembgo.github.io/washie/kit-essai-couche-lavable-washie-classic.html): Kit d'essai, S 4–8 kg · M 6–12 kg · L 9–17 kg, 39,00 € (au lieu de 49,00 €). Tout pour tester la couche lavable hybride : 1 couche Classic, 2 absorbants Jour, 1 absorbant jetable et 10 voiles.
+- [Kit d'essai Washie Switch](https://clembgo.github.io/washie/kit-essai-washie-switch.html): Kit d'essai, S 4–8 kg · M 6–12 kg · L 9–17 kg, 49,00 € (au lieu de 59,00 €). Découvrez le système à poche détachable : 1 culotte Switch, 2 poches étanches, 2 absorbants Jour et 10 voiles.
+- [Pack équipement Washie Classic – 6 couches](https://clembgo.github.io/washie/pack-equipement-couches-lavables-washie-classic.html): Pack équipement, S 4–8 kg · M 6–12 kg · L 9–17 kg, 259,00 € (au lieu de 299,00 €). Le temps plein en une commande : 6 couches Classic, 12 absorbants, 2 absorbants nuit, 100 voiles et un sac imperméable.
+- [Maillot-couche de bain lavable](https://clembgo.github.io/washie/maillot-couche-de-bain-lavable.html): Couche de bain, S 4–9 kg · M 8–13 kg · L 12–17 kg, 19,00 €. Maillot-couche réutilisable pour la piscine et la plage, qui retient les selles sans gonfler dans l'eau.
+- [Culotte d'apprentissage de la propreté](https://clembgo.github.io/washie/culotte-apprentissage-proprete-lavable.html): Culotte d'apprentissage, 2–3 ans (12–16 kg) · 3–4 ans (15–19 kg), 19,00 €. Une vraie culotte que l'enfant enfile seul, avec une zone absorbante pour les petits accidents.
+- [Sac imperméable à couches](https://clembgo.github.io/washie/sac-impermeable-couches-lavables.html): Sac, 30 × 40 cm, 16,00 €. Sac étanche à 2 compartiments propre / sale pour la crèche et les sorties.
+- [Lingettes lavables – lot de 10](https://clembgo.github.io/washie/lingettes-lavables-lot-de-10.html): Lingettes, 20 × 20 cm, 12,90 €. Lingettes douces éponge / velours, lavées avec les couches.
+- [Lessive spéciale couches lavables – 1 L](https://clembgo.github.io/washie/lessive-speciale-couches-lavables.html): Lessive, 1 L (≈ 40 lavages), 13,90 €. Sans agent de blanchiment, azurant optique ni adoucissant : préserve l'étanchéité des poches et l'absorption.
+
+## Données
+- [Flux produits XML](https://clembgo.github.io/washie/feeds/google-merchant.xml)
+- [Flux produits CSV](https://clembgo.github.io/washie/feeds/products.csv)
+- [Flux produits JSON](https://clembgo.github.io/washie/feeds/products.json)
+- [Plan du site](https://clembgo.github.io/washie/sitemap.xml)
